@@ -1,8 +1,16 @@
 ---
+import Layout from './Layout.astro';
+const {
+  frontmatter: { title = 'arks.cafe' }
+} = Astro.props;
 ---
 
-<div class="p-16">
-  <div class="prose max-w-[80ch] mx-auto p-8 rounded-box bg-base-300">
-    <slot />
+<Layout {title}>
+  <div class="p-4 md:p-8">
+    <div
+      class="prose max-w-[80ch] mx-auto p-8 rounded-box bg-base-100 shadow-sm"
+    >
+      <slot />
+    </div>
   </div>
-</div>
+</Layout>

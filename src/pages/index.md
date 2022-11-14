@@ -1,26 +1,27 @@
 ---
 layout: '../layouts/MarkdownWrapper.astro'
+title: home | arks.cafe 💫 ☕️  
 ---
 
-# arks.cafe
+# arks.cafe 💫 ☕️ 
 
 Just a fun little project. I know, the domain is pretty sick! 😅
 
-## Fediverse Stuff
+## Fediverse Stuff 
 
 - [Misskey (mk.arks.cafe)](https://mk.arks.cafe)
   - [PSO2 Twitter to Fediverse Bots on mk.arks.cafe](/fedi/mirror-bots)
-- [arks.cafe fediverse ToS](/fedi/tos)
+- [arks.cafe fediverse tos](/fedi/tos)
 
 ### Potential Future and Goals
 
 Just because it's nice to note these things down.
 
-- Short-Term: Be home to around 15 ARKS members (and adjacent).
-- Open up a general relay at `relay.arks.cafe`
-- If there's enough users to warrant it, open up a donation pool on Ko-fi to fund server costs/maintenance.
-  - Scale up to a dedicated Postgres cluster for operating at a larger scale.
-- Open up a Pleroma (or fork) instance at `pl.arks.cafe`
+- ⬜️ Short-Term: Be home to around 15 ARKS members (and adjacent).
+- ⬜️ Open up a general relay at `relay.arks.cafe`
+- ⬜️ If there's enough users to warrant it, open up a donation pool on Ko-fi to fund server costs/maintenance.
+  - ⬜️ Scale up to a dedicated Postgres cluster for operating at a larger scale.
+- ⬜️ Open up a Pleroma (or fork) instance at `pl.arks.cafe`
 
 ---
 

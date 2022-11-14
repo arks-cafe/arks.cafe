@@ -1,5 +1,6 @@
 ---
 layout: '../../layouts/MarkdownWrapper.astro'
+title: rules/tos | arks.cafe 💫 ☕️  
 ---
 
 [back home](/)

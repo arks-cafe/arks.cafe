@@ -1,5 +1,6 @@
 ---
 layout: '../../layouts/MarkdownWrapper.astro'
+title: fedi mirror bots | arks.cafe 💫 ☕️  
 ---
 
 [back home](/)
@@ -13,5 +14,7 @@ layout: '../../layouts/MarkdownWrapper.astro'
 ---
 
 The bots update at 10 minute intervals.
+
+Keep in mind, this is a one way mirror. Any replies will only be visible as replies to the Fediverse post, and won't be reflected onto Twitter itself.
 
 If you have any other suggestions, let me know at [@jojobii@mk.arks.cafe](https://mk.arks.cafe/@jojobii).

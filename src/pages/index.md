@@ -9,6 +9,7 @@ Just a fun little project. I know, the domain is pretty sick! 😅
 ## Fediverse Stuff
 
 - [Misskey (mk.arks.cafe)](https://mk.arks.cafe)
+  - [PSO2 Twitter to Fediverse Bots on mk.arks.cafe](/fedi/mirror-bots)
 - [arks.cafe fediverse ToS](/fedi/tos)
 
 ---

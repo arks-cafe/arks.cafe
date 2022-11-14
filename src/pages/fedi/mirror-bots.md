@@ -12,4 +12,6 @@ layout: '../../layouts/MarkdownWrapper.astro'
 
 ---
 
+The bots update at 10 minute intervals.
+
 If you have any other suggestions, let me know at [@jojobii@mk.arks.cafe](https://mk.arks.cafe/@jojobii).

@@ -20,6 +20,7 @@ Here's a few rules from PSO2's Official Discord that I think would well if appli
 
 - Reasonable NSFW is allowed, **but must be properly marked under CW**.
 - Common internet etiquette stuff applies here. Just don't be rude lmao
+- I'm gonna be biased against doomposting, so please keep that stuff out of here. 🥲
 
 ... ngl that's pretty much it. I don't really look forward to moderating, so I trust that everyone here is a reasonable human being. If you'd like to help out with moderation here, lmk!
 

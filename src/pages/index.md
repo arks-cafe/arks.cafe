@@ -15,6 +15,7 @@ Just a fun little project. I know, the domain is pretty sick! 😅
 
 ## Short Short Short Term Todo:
 
+- ⬜️ Replace assets on `mk.arks.cafe` to be more pastel and cute and shit :3
 - ⬜️ Create a beginner's resource for Misskey and Fediverse for newbies (tbf I'm still new myself lmao).
 
 ### Potential Future and Goals
@@ -22,7 +23,7 @@ Just a fun little project. I know, the domain is pretty sick! 😅
 Just because it's nice to note these things down.
 
 - ⬜️ Short-Term: Be home to around 15 ARKS members (and adjacent).
-- ⬜️ Open up a Pleroma (or fork) instance at `pl.arks.cafe`
+- ⬜️ Open up an Akkoma instance at `ak.arks.cafe`, and connect with Misskey instance via internal relay.
 - ⬜️ Open up a general relay at `relay.arks.cafe`
 - ⬜️ If there's enough users to warrant it, open up a donation pool on Ko-fi to fund server costs/maintenance.
   - ⬜️ Scale up to a dedicated Postgres cluster for operating at a larger scale.

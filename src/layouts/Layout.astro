@@ -1,5 +1,6 @@
 ---
 const { title = 'arks.cafe' } = Astro.props;
+const description = 'Hub website for the arks.cafe ecosystem.'
 ---
 
 <!DOCTYPE html>
@@ -9,6 +10,14 @@ const { title = 'arks.cafe' } = Astro.props;
     <link rel="icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
+
+    <meta property="og:site_name" content="arks.cafe" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://mk.arks.cafe" />
+
+    <meta name="twitter:card" content="summary" />
+
     <title>{title}</title>
   </head>
   <body class="bg-primary min-h-screen">

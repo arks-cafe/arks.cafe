@@ -1,6 +1,6 @@
 ---
-layout: '../../layouts/MarkdownWrapper.astro'
-title: fedi mirror bots | arks.cafe 💫 ☕️  
+layout: "../../layouts/MarkdownWrapper.astro"
+title: fedi mirror bots | arks.cafe 💫 ☕️
 ---
 
 [back home](/)

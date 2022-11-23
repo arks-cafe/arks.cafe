@@ -9,6 +9,8 @@ title: active block list | arks.cafe 💫 ☕️
 
 As much as I'd want to keep things open across the entire fediverse, some instances attract some really shitty people. It does help with grouping people together to block though, I suppose...
 
+This list is based off of the [chaos.social blocklist](https://github.com/chaossocial/about/blob/master/blocked_instances.md). Adjustments have been made to accomodate for our own ToS, as well as our own experienes.
+
 - Suspended (mk: Blocked) ⛔: Full defederation from instance.
 
 - Silenced (mk: Suspended) 🔇: Silenced instances don't appear in the Federated timeline, but their accounts can still

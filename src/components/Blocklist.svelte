@@ -115,8 +115,10 @@
     ["⛔", "pl.tkammer.de", "Transphobia"],
     ["⛔", "varishangout.net", "Transphobia, aggressive trolling"],
   ];
+
+  console.log(data);
 </script>
 
 <div class="not-prose">
-  <Grid {data} {columns} search={true} sort={true} />
+  <Grid {data} {columns} search sort />
 </div>

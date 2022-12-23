@@ -18,9 +18,13 @@ Here's a few rules from PSO2's Official Discord that I think would well if appli
 
 ### Rule Extensions
 
+- CW for spoilers are encouraged, specifically during the release weeks of new content
 - Reasonable NSFW is allowed, **but must be properly marked under CW**.
 - Common internet etiquette stuff applies here. Just don't be rude lmao
 - I'm gonna be biased against doomposting, so please keep that stuff out of here. 🥲
+- Datamine discussion is chill; just CW it since it is spoilers. 
+- Accounts made for the sole purpose of advertising entirely irrelevant products/services will be silenced, and associated posts will be deleted.
+    - (please go to a more generalist instance and advertise there)
 
 ... ngl that's pretty much it. I don't really look forward to moderating, so I trust that everyone here is a reasonable human being. If you'd like to help out with moderation here, lmk!
 
@@ -38,7 +42,7 @@ also quick sidenote, I swear there was like this really good "fediverse code of 
 
 <center>
 
-[@jojobii@mk.arks.cafe](https://mk.arks.cafe/@jojobii)
+any issues or questions? contact [@jojobii@mk.arks.cafe](https://mk.arks.cafe/@jojobii)
 
 [twitter: @jojobii_](https://twitter.com/jojobii_)
 

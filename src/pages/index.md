@@ -14,23 +14,6 @@ Just a fun little project. I know, the domain is pretty sick! 😅
 - [arks.cafe fediverse tos](/fedi/tos)
 - [arks.cafe fediverse blocklist](/fedi/blocklist)
 
-## Short Short Short Term Todo:
-
-- ⬜️ Replace assets on `mk.arks.cafe` to be more pastel and cute and shit :3
-- ⬜️ Create a discord and ecosystem-wide status tracker
-- ⬜️ Proper "admin" account for administration related purposes
-- ⬜️ Create a beginner's resource for Misskey and Fediverse for newbies (tbf I'm still new myself lmao).
-
-### Potential Future and Goals
-
-Just because it's nice to note these things down.
-
-- ⬜️ Short-Term: Be home to around 15 ARKS members (and adjacent).
-- ⬜️ Open up an Akkoma instance at `ak.arks.cafe`, and connect with Misskey instance via internal relay.
-- ⬜️ Open up a general relay at `relay.arks.cafe`
-- ⬜️ If there's enough users to warrant it, open up a donation pool on Ko-fi to fund server costs/maintenance.
-  - ⬜️ Scale up to a dedicated Postgres cluster for operating at a larger scale.
-
 ---
 
 I'm keeping the `arks.cafe` domain clear just because of how nice it is and I don't wanna mess it up across the fediverse network like I did with `arks.social`...

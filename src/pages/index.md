@@ -14,6 +14,10 @@ Just a fun little project. I know, the domain is pretty sick! 😅
 - [arks.cafe fediverse blocklist](/fedi/blocklist)
 - [arks.cafe cost breakdown](/cost)
 
+## Services
+
+- [Cobalt (co.arks.cafe)](https://co.arks.cafe)
+
 ---
 
 I'm keeping the `arks.cafe` domain clear just because of how nice it is and I don't wanna mess it up across the fediverse network like I did with `arks.social`...
